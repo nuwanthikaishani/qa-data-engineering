@@ -17,16 +17,16 @@ This repository documents my practical learning journey in data quality testing,
 
 ## 🛠️ Technologies & Tools
 
-| Technology | Purpose |
-|---|---|
-| SQL | Database queries and data validation |
-| PostgreSQL | Practice relational database |
-| pgAdmin | Database management |
-| Python | ETL scripts and automation |
-| pandas | Data processing and validation |
-| pytest | Automated testing |
+| Technology   | Purpose |
+|--------------|---|
+| SQL          | Database queries and data validation |
+| PostgreSQL   | Practice relational database |
+| pgAdmin      | Database management |
+| Python       | ETL scripts and automation |
+| pandas       | Data processing and validation |
+| pytest       | Automated testing |
 | Git & GitHub | Version control |
-| VS Code | Development environment |
+| Intelij      | Development environment |
 
 ## 📁 Repository Structure
 
